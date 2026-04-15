@@ -1,2 +1,2 @@
 # reverse_integer
-a code in c that take an input integer from the user and reverses
+c and cpp programs that emulate the concept of reversed engineering
